@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrerod22
-- 👀 I’m interested in ... backend development
-- 🌱 I’m currently learning ... how to build a search engine
+- 👀 I’m interested in ... data engineering
+- 🌱 I’m currently learning ... data engineering via coursera
 - 💞️ I’m looking to collaborate on ... anything coding related!
 - 📫 How to reach me ... andre.rodriguez9722@outlook.com
 
